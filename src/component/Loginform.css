@@ -1,0 +1,17 @@
+.wrapper{
+    height:500px;
+    background-color: rgb(37, 36, 36);
+    
+}
+
+.login-box{
+   height:300px;
+   width:400px;
+   border-radius: 5px;
+   
+  
+}
+.btn{
+    align-items:center;
+    justify-content: center;
+}
